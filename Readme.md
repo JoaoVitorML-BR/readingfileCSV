@@ -52,7 +52,7 @@
 21 - right-click and create a New Request in insominia:<br>
     <img align="center" alt="CREATE REQUEST COLLECTION" height="120" width="320" src="./img/newrequest.png"><br>
 22 - now configure in the same way as in the image, passing the host location, putting the file name, and selecting the file as the file.<br>
-    <img align="center" alt="config file" height="120" width="320" src="./img/confignewrequest.png"><br>
+    <img align="center" alt="config file" height="120" width="320" src="./img/confgnewrequest.png"><br>
 23 - now choose the archive mercadinho.csv<br>
     <img align="center" alt="choosing archive file" height="120" width="320" src="./img/choosearchive.png"><br>
 24 - Send in insominia.<br>

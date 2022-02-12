@@ -16,11 +16,11 @@
 
 ## ENVIROMENT SETTINGS
 
-1 - yarn init -y
-2 - yarn add express
-3 - yarn add typescript @types/express ts-node-dev -D
-4 - yarn add prisma -D
-5 - yarn add @prisma/client -D
+1 - yarn init -y <br>
+2 - yarn add express<br>
+3 - yarn add typescript @types/express ts-node-dev -D<br>
+4 - yarn add prisma -D<br>
+5 - yarn add @prisma/client -D<br>
 6 - create folder src and file into src called server.ts
 7 - import express from "express";
     const app = express();

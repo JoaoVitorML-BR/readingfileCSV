@@ -2,16 +2,16 @@
 
 <img align="center" alt="arquivo csv" height="120" width="320" src="./img/csvimg.jfif">
 
-    - Hi, i'm João Vitor and in this small programming i read a file.csv and send the data for a database
+-   Hi, i'm João Vitor and in this small programming i read a file.csv and send the data for a database
 
-    * Obs: sorry for my english, i resolve writter this Readme in english to train my english without the help of google translate.
+*   Obs: sorry for my english, i resolve writter this Readme in english to train my english without the help of google translate.
 
-    - This this program reads a csv file and putting its data in a PostgreSQL database
+-   This this program reads a csv file and putting its data in a PostgreSQL database
 
-    - One of my challenges was: to write this readme in English without having much help from the translator, in addition to writing all the code and connecting to the database.
-    - I confess that I had the help of youtube videos, where I followed the rocketseat video.
+-   One of my challenges was: to write this readme in English without having much help from the translator, in addition to writing all the code and connecting to the database.
+-   I confess that I had the help of youtube videos, where I followed the rocketseat video.
 
-    - The biggest learning besides reading the csv file that I had watching the video and explanation, was to connect the database using Insominia + PostgreSQL + beekeeper. I had to do this part only because the teacher doesn't teach, so it became a little challenging but I managed to get around it.
+-   The biggest learning besides reading the csv file that I had watching the video and explanation, was to connect the database using Insominia + PostgreSQL + beekeeper. I had to do this part only because the teacher doesn't teach, so it became a little challenging but I managed to get around it.
 
 
 ## ENVIROMENT SETTINGS
